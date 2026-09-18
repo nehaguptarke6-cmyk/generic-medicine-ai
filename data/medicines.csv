@@ -1,0 +1,6 @@
+medicine_name,generic_name,category,form,description,warnings,source
+DemoMed-A,Demo Generic A,Example Category,Tablet,Demo information for testing only,Consult a qualified healthcare professional,Demo dataset
+DemoMed-B,Demo Generic B,Example Category,Capsule,Demo information for testing only,Consult a qualified healthcare professional,Demo dataset
+DemoMed-C,Demo Generic C,Example Category,Syrup,Demo information for testing only,Consult a qualified healthcare professional,Demo dataset
+DemoMed-D,Demo Generic D,Example Category,Cream,Demo information for testing only,Consult a qualified healthcare professional,Demo dataset
+DemoMed-E,Demo Generic E,Example Category,Tablet,Demo information for testing only,Consult a qualified healthcare professional,Demo dataset

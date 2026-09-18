@@ -1,0 +1,13 @@
+streamlit
+pandas
+requests
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+transformers
+torch
+faiss-cpu
+python-dotenv
