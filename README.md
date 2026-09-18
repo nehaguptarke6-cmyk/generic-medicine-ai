@@ -37,6 +37,9 @@ The main objective of this project is to build a simple AI-powered medicine info
 * ❌ Avoids displaying missing values such as `NaN`
 
 ---
+## 🖥️ Application Preview
+
+![Generic Medicine AI](images/app-screenshot.png)
 
 ## 🏗️ Architecture
 
